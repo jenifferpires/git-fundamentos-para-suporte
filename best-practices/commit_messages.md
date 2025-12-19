@@ -38,31 +38,32 @@ Tipo: descrição curta do que foi feito
 ## ✅ Exemplos de boas mensagens
 
 Adiciona documentação sobre resolução de conflitos
-
+> * Código.
 
 Corrige validação de dados no endpoint de pedidos
-
+> * Código.
 
 Atualiza README com instruções de uso
-
+> * Código.
 
 Ajusta script de integração com API externa.
-
+> * Código.
 
 ---
 
 ## ❌ Exemplos de mensagens ruins
 
 ajustes
-
+> * Código.
 
 update
-
+> * Código.
 
 teste
+> * Código.
 
-
-alterações.
+alterações
+> * Código.
 
 Essas mensagens não explicam o contexto nem o impacto da mudança.
 
