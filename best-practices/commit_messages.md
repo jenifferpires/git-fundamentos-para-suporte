@@ -4,22 +4,22 @@ Mensagens de commit claras e objetivas são essenciais para manter
 um histórico compreensível e facilitar o trabalho em equipe.
 
 Um bom commit permite entender:
-- O que foi alterado
-- Por que foi alterado
-- Qual problema foi resolvido
+- O que foi alterado.
+- Por que foi alterado.
+- Qual problema foi resolvido.
 
 ---
 
 ## 🎯 Por que mensagens de commit são importantes?
 
-- Facilitam a leitura do histórico (`git log`)
-- Ajudam na investigação de bugs
-- Melhoram a comunicação entre times
-- Permitem rastrear quando um problema foi introduzido
+- Facilitam a leitura do histórico (`git log`).
+- Ajudam na investigação de bugs.
+- Melhoram a comunicação entre times.
+- Permitem rastrear quando um problema foi introduzido.
 
 ---
 
-## 📌 Estrutura recomendada
+## 📌 Estrutura recomendada.
 
 Uma boa mensagem de commit deve ser:
 
@@ -32,8 +32,6 @@ Uma boa mensagem de commit deve ser:
 
 Tipo: descrição curta do que foi feito
 
-yaml
-Copiar código
 
 ---
 
@@ -41,16 +39,14 @@ Copiar código
 
 Adiciona documentação sobre resolução de conflitos
 
-Copiar código
+
 Corrige validação de dados no endpoint de pedidos
 
-Copiar código
+
 Atualiza README com instruções de uso
 
-Copiar código
-Ajusta script de integração com API externa
 
-yaml
+Ajusta script de integração com API externa.
 
 
 ---
@@ -66,9 +62,7 @@ update
 teste
 
 
-alterações
-
-
+alterações.
 
 Essas mensagens não explicam o contexto nem o impacto da mudança.
 
