@@ -13,8 +13,6 @@ O comando `git pull` atualiza o repositório local com as alterações do reposi
 Uso:
 git pull origin main
 
-yaml
-Copiar código
 
 Esse comando realiza duas ações:
 - `git fetch`: busca as alterações remotas
@@ -35,8 +33,6 @@ A divergência ocorre quando:
 Mensagem comum:
 Your branch and 'origin/main' have diverged
 
-yaml
-Copiar código
 
 Como resolver:
 1. Executar `git pull origin main`
@@ -53,8 +49,7 @@ O comando `git merge` une alterações de uma branch a outra.
 Exemplo:
 git merge nome-da-branch
 
-yaml
-Copiar código
+
 
 No contexto de suporte:
 - Integrar hotfixes
@@ -70,8 +65,7 @@ O parâmetro `--no-edit` permite finalizar um merge usando a mensagem padrão.
 Uso:
 git commit --no-edit
 
-yaml
-Copiar código
+
 
 Quando usar:
 - Merge simples
@@ -87,8 +81,7 @@ O `git rebase` reaplica commits em outra base.
 Uso:
 git rebase main
 
-yaml
-Copiar código
+
 
 Diferença entre merge e rebase:
 - Merge mantém o histórico completo
