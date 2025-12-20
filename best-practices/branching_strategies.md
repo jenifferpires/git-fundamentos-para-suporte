@@ -35,16 +35,18 @@ Utilizada para corrigir problemas urgentes em produção.
 Exemplo:
 hotfix/corrige-erro-pagamento
 
+yaml
+Copiar código
 
 Fluxo comum:
 1. Criar branch a partir da `main`
-2. Aplicar correção.
-3. Testar.
-4. Fazer merge de volta na `main`.
+2. Aplicar correção
+3. Testar
+4. Fazer merge de volta na `main`
 
 Uso no suporte:
 - Correção de bugs críticos
-- Ajustes emergenciais solicitados por clientes.
+- Ajustes emergenciais solicitados por clientes
 
 ---
 
@@ -55,6 +57,8 @@ Usada para ajustes não críticos ou melhorias incrementais.
 Exemplo:
 feature/ajusta-log-integracao
 
+yaml
+Copiar código
 
 Uso no suporte:
 - Melhorar logs
@@ -78,6 +82,6 @@ Para profissionais de suporte, entender estratégias de branch permite:
 - Trabalhar com hotfixes de forma segura
 - Acompanhar correções feitas pelo time de desenvolvimento
 - Apoiar deploys e validações
-- Reduzir riscos em produção.
+- Reduzir riscos em produção
 
 ---
