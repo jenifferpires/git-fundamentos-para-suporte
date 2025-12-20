@@ -20,9 +20,7 @@ Ele informa:
 
 Uso:
 
-
 git status
-
 
 Exemplo de uso no suporte:
 - Verificar se há alterações locais antes de atualizar o código
@@ -37,12 +35,10 @@ O comando `git add` adiciona arquivos à área de staging, preparando-os para co
 
 Adicionar um arquivo específico:
 
-
 git add arquivo.txt
 
 
 Adicionar todos os arquivos modificados:
-
 
 git add .
 
@@ -60,9 +56,7 @@ O comando `git commit` cria um registro permanente das alterações versionadas.
 
 Uso:
 
-
 git commit -m "Mensagem clara e objetiva"
-
 
 Boas práticas:
 - Mensagens curtas e descritivas
@@ -83,9 +77,7 @@ O comando `git push` envia os commits locais para o repositório remoto (GitHub)
 
 Uso:
 
-
 git push origin main
-
 
 Exemplo de uso no suporte:
 - Enviar correções para revisão
@@ -98,11 +90,12 @@ Exemplo de uso no suporte:
 
 Um fluxo simples e comum no dia a dia:
 
-
-
 git status
+
 git add .
+
 git commit -m "Descrição da alteração"
+
 git push origin main
 
 
