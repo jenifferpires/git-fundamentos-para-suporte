@@ -35,8 +35,6 @@ Utilizada para corrigir problemas urgentes em produção.
 Exemplo:
 hotfix/corrige-erro-pagamento
 
-yaml
-Copiar código
 
 Fluxo comum:
 1. Criar branch a partir da `main`
@@ -57,8 +55,6 @@ Usada para ajustes não críticos ou melhorias incrementais.
 Exemplo:
 feature/ajusta-log-integracao
 
-yaml
-Copiar código
 
 Uso no suporte:
 - Melhorar logs
